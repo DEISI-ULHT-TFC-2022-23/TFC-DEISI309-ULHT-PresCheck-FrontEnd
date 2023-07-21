@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .grafico {
+      width: 85vw;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .grafico {
+      width: 30vw;
+    }
+  }
